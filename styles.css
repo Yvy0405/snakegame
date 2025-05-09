@@ -1,0 +1,40 @@
+
+
+
+
+body{
+  margin-top: 100px;
+  background-color: #FFE7E1;
+}
+
+#gameContainer{
+  text-align: center;
+}
+
+#gameBoard {
+  border: 3px solid white;
+  border-radius: 10px;
+}
+
+#scoreText{
+  font-family: "Calibri", cursive;
+  font-size: 100px;
+}
+
+#resetBtn{
+  font-family: "Calibri", cursive;
+  font-size: 22px;
+  width: 100px;
+  height: 50px;
+  border: 4px solid;
+  cursor: pointer;
+  border-radius: 15px;
+  font-weight: bold;
+  color: white;
+  background-color: #FF6BAE;
+}
+
+#resetBtn:hover{
+  background-color: #ff479a;
+}
+
